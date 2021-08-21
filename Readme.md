@@ -55,3 +55,5 @@
 16. Finalmente, podremos cerrar Xcode y ahora, ejecutar nuestro proyecto con el comando `npx react-native run-ios`.
 
 De esta manera podremos configurar cualquier proyecto de React Native para que sea ejecutable en nuestros entornos de desarrollo desde equipos con procesadores M1 de Apple.
+
+[Creditos](https://medium.com/@davidjasonharding/developing-a-react-native-app-on-an-m1-mac-without-rosetta-29fcc7314d70)
